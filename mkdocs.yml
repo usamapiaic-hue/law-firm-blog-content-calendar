@@ -1,0 +1,10 @@
+site_name: Law Firm Blog Content Calendar
+site_description: A 12-month blog content calendar template for law firms, built around client questions, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-blog-content-calendar.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Content calendar: index.md
+markdown_extensions:
+  - tables
